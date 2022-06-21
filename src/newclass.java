@@ -1,2 +1,2 @@
-public class newclass {01wertwe
+public class newclass {0221wertwe
 }
