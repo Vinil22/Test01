@@ -1,2 +1,2 @@
-public class newclass {1236541657779wertwe
+public class newclass {01wertwe
 }
